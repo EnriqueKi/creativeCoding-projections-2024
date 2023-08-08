@@ -21,8 +21,7 @@ This week we'll have fun with [P5.js](https://p5js.org/) and learn the basics of
 
 No need to use anything other than Google [Chrome](https://www.google.com/chrome/) and the web [P5.js editor](https://editor.p5js.org/) -> **Please make an account!**
 
-Resources: 
-
+_Resources:_ 
 * Go to whenever there are doubts : p5.js reference https://p5js.org/reference/
 * Good P5.js cheat sheet - https://bmoren.github.io/p5js-cheat-sheet/
 * Best video-resource - The coding train : https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/0-trailer/trailer
@@ -81,6 +80,13 @@ _Resources:_
 
 
 
+Cut/Copy/Paste code from everywhere all at once! -> Remix! and Steal!
+
+_Resources:_ 
+
+* http://www.generative-gestaltung.de/2/ 
+* https://openprocessing.org/discover/#/trending
+* Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
 
 
 ## Safe.space 
