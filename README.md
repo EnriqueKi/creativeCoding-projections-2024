@@ -7,9 +7,7 @@ Code is a mesmerizing tool for visual expression. From generative graphics to im
 
 * 4.Sept to 8.Sept -> IntroP5.js
 * 11.Sept to 14.Sept -> Peer.coding  
-* 15.Sept to 21.Sept -> Feral.aker
-* 22.Sept to 29.Sept -> Safe.space 
-
+* 15.Sept to 22.Sept -> Feral.aker
 _______________________________________________
 _______________________________________________
 
@@ -75,10 +73,10 @@ _Resources:_
 ## Peer.coding 
 11.Sept to 14.Sept
 
+Invite ChatGPT into your peer coding ensemble and produce a sketch.
+
 ## Feral.aker
 15.Sept to 21.Sept
-
-
 
 Cut/Copy/Paste code from everywhere all at once! -> Remix! and Steal!
 
@@ -87,11 +85,6 @@ _Resources:_
 * http://www.generative-gestaltung.de/2/ 
 * https://openprocessing.org/discover/#/trending
 * Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
-
-
-## Safe.space 
-22.Sept to 29.Sept
-
 
 _Resources: AI by mostly Gene Kogan and Andreas Refgaard_ 
 
