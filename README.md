@@ -1,7 +1,7 @@
 # Coded Visual
 ==================================
 
-A module about designing graphics with code.
+A module about designing graphics with code where messy fleshy curious humans learn programming skills in a non-intimidating environment. The emphasis is on experimentation, collaboration, scrappy creative strategies rather than perfect code and being-in-process instead of outcome-flushing. 
 
 Code is a mesmerizing tool for visual expression. From generative graphics to image manipulation to collage making to sonic abstraction, the possibilities of designing through algorythmic composition are extraordinary. We will explore them in this 4 week module with the following thematic structure:
 
@@ -64,6 +64,7 @@ _Theory-like stuff:_
 * [7.5 Removing objects from arrays](https://www.youtube.com/watch?v=tA_ZgruFF9k)
 
 _Resources:_ 
+* https://creativecodecollective.github.io/
 * Fullscreen sketch and save it : https://editor.p5js.org/Klio_/sketches/-ix6wqFOg 
 * Having multiple layers in p5.js : https://www.youtube.com/watch?v=TaluaAD9MKA + https://editor.p5js.org/codingtrain/sketches/7RN7GFD-Y
 * Creating multiple canvas + namespacing : https://www.youtube.com/watch?v=Su792jEauZg
