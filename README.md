@@ -1,7 +1,7 @@
 # Coded Visual
 ==================================
 
-A module about designing graphics with code where messy fleshy curious humans learn programming skills in a non-intimidating environment. The emphasis is on experimentation, collaboration, scrappy creative strategies rather than perfect code and being-in-process instead of outcome-flushing. 
+A module about designing graphics with code where messy fleshy curious humans learn programming skills in a non-intimidating environment. The emphasis is on experimentation, collaboration, scrappy creative strategies (not perfect code!) and being-in-process instead of outcome-flushing. 
 
 Code is a mesmerizing tool for visual expression. From generative graphics to image manipulation to collage making to sonic abstraction, the possibilities of designing through algorythmic composition are extraordinary. We will explore them in this 4 week module with the following thematic structure:
 
@@ -86,6 +86,10 @@ _Resources:_
 * http://www.generative-gestaltung.de/2/ 
 * https://openprocessing.org/discover/#/trending
 * Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
+
+* https://criticalcode.recipes/
+* https://teddavis.org/p5live/
+* https://hydra.ojack.xyz/
 
 _Resources: AI by mostly Gene Kogan and Andreas Refgaard_ 
 
