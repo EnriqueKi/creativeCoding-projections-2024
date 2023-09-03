@@ -23,7 +23,8 @@ _Resources:_
 * Go to whenever there are doubts : p5.js reference https://p5js.org/reference/
 * Good P5.js cheat sheet - https://bmoren.github.io/p5js-cheat-sheet/
 * Best video-resource - The coding train : https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/0-trailer/trailer
-* Creative Coding with Allison Parrish : https://creative-coding.decontextualize.com/first-steps/
+* COURSE: Creative Coding with Allison Parrish : https://creative-coding.decontextualize.com/first-steps/
+* COURSE: Introduction to Computational Media with p5.js by Barry Voeten : https://nycdoe-cs4all.github.io/index.html
 * Also by Allison Parrish : https://creative-coding.decontextualize.com/expressions-variables-and-loops/
 * Building interactions with p5.js - https://p5js.org/learn/interactivity.html
 * Everything about Color : https://p5js.org/learn/color.html
