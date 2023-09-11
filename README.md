@@ -77,8 +77,12 @@ _Resources:_
 
 Invite ChatGPT into your peer coding ensemble and produce a sketch.
 
-## Feral.aker
+## The Ritual of Elvelangs
 15.Sept to 21.Sept
+
+In a parallel timeline where Akerselva is a creature that is intensely alive, citizens of Oslo gather to celebrate the Ritual of Elvelangs. 
+Your light sculptures, paintings and sketches belong to this parallel timeline.
+The pdf files above contain lots of details to guide your inspiration in case of need. 
 
 Cut/Copy/Paste code from everywhere all at once! -> Remix! and Steal!
 
