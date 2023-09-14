@@ -88,6 +88,7 @@ Cut/Copy/Paste code from everywhere all at once! -> Remix! and Steal!
 
 _Resources:_ 
 
+* Extra nice miro board by Daniel on connecting Microbit and P5.js: https://miro.com/app/board/uXjVMs5DZE0=/?share_link_id=811013508930
 * http://www.generative-gestaltung.de/2/ 
 * https://openprocessing.org/discover/#/trending
 * Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
