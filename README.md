@@ -95,13 +95,9 @@ Cut/Copy/Paste code from everywhere all at once! -> Remix!
 _Resources:_ 
 
 * https://editor.p5js.org/Averselka/sketches
-
-* https://github.com/ITPNYU/ICM-2020-Code/wiki/Inspiration
-
 * http://www.generative-gestaltung.de/2/ 
 * https://openprocessing.org/discover/#/trending
-* Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
-
+* https://github.com/ITPNYU/ICM-2020-Code/wiki/Inspiration
 * https://criticalcode.recipes/
 * https://teddavis.org/p5live/
 * https://hydra.ojack.xyz/
