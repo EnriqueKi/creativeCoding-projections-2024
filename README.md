@@ -79,7 +79,9 @@ _Resources:_
 ## Peer.coding 
 9.Sept to 13.Sept
 
-Invite ChatGPT into your peer coding ensemble and produce a sketch.
+Invite ChatGPT into your peer coding ensemble.
+
+* Extra nice miro board by Daniel on connecting Microbit and P5.js: https://miro.com/app/board/uXjVMs5DZE0=/?share_link_id=811013508930
 
 ## The Ritual of Elvelangs
 15.Sept to 21.Sept
@@ -96,7 +98,6 @@ _Resources:_
 
 * https://github.com/ITPNYU/ICM-2020-Code/wiki/Inspiration
 
-* Extra nice miro board by Daniel on connecting Microbit and P5.js: https://miro.com/app/board/uXjVMs5DZE0=/?share_link_id=811013508930
 * http://www.generative-gestaltung.de/2/ 
 * https://openprocessing.org/discover/#/trending
 * Lots of examples arranged by media type : https://editor.p5js.org/Klio_/collections
