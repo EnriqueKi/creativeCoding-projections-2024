@@ -1,30 +1,34 @@
-# Coded Visual
+# Creative Coding && Projections
 ==================================
 
 A module about designing graphics with code where messy fleshy curious humans learn programming skills in a non-intimidating environment. The emphasis is on experimentation, collaboration, scrappy creative strategies (not perfect code!) and being-in-process instead of outcome-flushing. 
 
-Code is a mesmerizing tool for visual expression. From generative graphics to image manipulation to collage making to sonic abstraction, the possibilities of designing through algorythmic composition are extraordinary. We will explore them in this 4 week module with the following thematic structure:
+Code is a mesmerizing tool for visual expression. From generative graphics to image manipulation to collage making to sonic abstraction, the possibilities of designing through algorythmic composition are extraordinary. We will explore them in this 3 week module with the following thematic structure:
 
-* 4.Sept to 8.Sept -> IntroP5.js
-* 11.Sept to 14.Sept -> Peer.coding  
-* 15.Sept to 22.Sept -> Feral.aker
+* 2.Sept to 6.Sept -> IntroP5.js
+* 9.Sept to 13.Sept -> Peer.coding  
+* 16.Sept to 20.Sept -> Aker x Elvelangs
 _______________________________________________
 _______________________________________________
 
 
 ## IntroP5.js
-4.Sept to 8.Sept
+2.Sept to 6.Sept
 
 This week we'll have fun with [P5.js](https://p5js.org/) and learn the basics of this javascript library for creative coding with tons of examples. 
 
 No need to use anything other than Google [Chrome](https://www.google.com/chrome/) and the web [P5.js editor](https://editor.p5js.org/) -> **Please make an account!**
 
 _Resources:_ 
-* Go to whenever there are doubts : p5.js reference https://p5js.org/reference/
+* Go-to whenever there are doubts : p5.js reference https://p5js.org/reference/
 * Good P5.js cheat sheet - https://bmoren.github.io/p5js-cheat-sheet/
-* Best video-resource - The coding train : https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/0-trailer/trailer
+* Mega video-resource - The coding train : https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/0-trailer/trailer
+
+* Lots of courses : https://p5js.org/education-resources/
+* COURSE: ITP Computing Materials : https://github.com/ITPNYU/ICM-2024-Code
 * COURSE: Creative Coding with Allison Parrish : https://creative-coding.decontextualize.com/first-steps/
 * COURSE: Introduction to Computational Media with p5.js by Barry Voeten : https://nycdoe-cs4all.github.io/index.html
+
 * Also by Allison Parrish : https://creative-coding.decontextualize.com/expressions-variables-and-loops/
 * Building interactions with p5.js - https://p5js.org/learn/interactivity.html
 * Everything about Color : https://p5js.org/learn/color.html
@@ -73,7 +77,7 @@ _Resources:_
 * Wonderfully inspirational list : https://github.com/ITPNYU/ICM-2017/wiki/Inspiration
 
 ## Peer.coding 
-11.Sept to 14.Sept
+9.Sept to 13.Sept
 
 Invite ChatGPT into your peer coding ensemble and produce a sketch.
 
@@ -84,9 +88,13 @@ In a parallel timeline where Akerselva is a creature that is intensely alive, ci
 Your light sculptures, paintings and sketches belong to this parallel timeline.
 The pdf files above contain lots of details to guide your inspiration in case of need. 
 
-Cut/Copy/Paste code from everywhere all at once! -> Remix! and Steal!
+Cut/Copy/Paste code from everywhere all at once! -> Remix! 
 
 _Resources:_ 
+
+* https://editor.p5js.org/Averselka/sketches
+
+* https://github.com/ITPNYU/ICM-2020-Code/wiki/Inspiration
 
 * Extra nice miro board by Daniel on connecting Microbit and P5.js: https://miro.com/app/board/uXjVMs5DZE0=/?share_link_id=811013508930
 * http://www.generative-gestaltung.de/2/ 
