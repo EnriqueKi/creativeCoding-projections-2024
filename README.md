@@ -83,12 +83,8 @@ Invite ChatGPT into your peer coding ensemble.
 
 * Extra nice miro board by Daniel on connecting Microbit and P5.js: https://miro.com/app/board/uXjVMs5DZE0=/?share_link_id=811013508930
 
-## The Ritual of Elvelangs
+## Elvelangs
 15.Sept to 21.Sept
-
-In a parallel timeline where Akerselva is a creature that is intensely alive, citizens of Oslo gather to celebrate the Ritual of Elvelangs. 
-Your light sculptures, paintings and sketches belong to this parallel timeline.
-The pdf files above contain lots of details to guide your inspiration in case of need. 
 
 Cut/Copy/Paste code from everywhere all at once! -> Remix! 
 
