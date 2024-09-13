@@ -120,3 +120,7 @@ _Resources: AI by mostly Gene Kogan and Andreas Refgaard_
 Pink team: https://editor.p5js.org/Klio_/sketches/j_N5_Rua6
 Green Team: https://editor.p5js.org/Klio_/sketches/9Uo9LDK5b
 
+* Shaders 
+https://isf.video/
+https://www.shadertoy.com/
+
